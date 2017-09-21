@@ -16,15 +16,12 @@ use one instead of another?
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+- For backup.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+- Impossible withuot source control. It would be very complicated.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+- In a collaborative environment, it is better to request pull changes from the author rather than pushing them directly into their master repository.
